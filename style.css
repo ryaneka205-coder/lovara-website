@@ -1,0 +1,56 @@
+/* Warna pink lembut untuk header */
+header {
+    background-color: #ff69b4 !important; /* pink */
+}
+
+/* Supaya tombol dan link tetap terlihat bagus di atas pink */
+header .nav-link {
+    color: white !important;
+}
+
+header .nav-link:hover {
+    color: #ffe6f2 !important; /* pink muda saat hover */
+}
+
+/* Tombol utama juga diganti jadi pink */
+.btn-primary {
+    background-color: #ff69b4;
+    border-color: #ff69b4;
+}
+
+.btn-primary:hover {
+    background-color: #ff85c1;
+    border-color: #ff85c1;
+}
+/* === HEADER WARNA PINK === */
+header {
+    background-color: #ff69b4 !important; /* pink cerah */
+    color: white !important;
+}
+
+/* Supaya teks LOVARA tetap putih */
+header h1 {
+    color: white !important;
+}
+
+/* Navigasi putih */
+header .nav-link {
+    color: white !important;
+    font-weight: 500;
+}
+
+/* Saat hover, jadi pink muda */
+header .nav-link:hover {
+    color: #ffe6f2 !important; /* pink muda */
+}
+
+/* Tombol utama warna pink juga */
+.btn-primary {
+    background-color: #ff69b4 !important;
+    border-color: #ff69b4 !important;
+}
+
+.btn-primary:hover {
+    background-color: #ff85c1 !important;
+    border-color: #ff85c1 !important;
+}
